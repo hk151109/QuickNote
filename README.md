@@ -1,4 +1,5 @@
-# QuickNote ![QuickNote Logo](https://github.com/hk151109/QuickNote/blob/main/img/256px-Icon-notepad.svg.png)
+# QuickNote 
+![QuickNote Logo](https://github.com/hk151109/QuickNote/blob/main/img/256px-Icon-notepad.svg.png)
 
 QuickNote is a simple and lightweight Chrome extension designed for taking quick notes directly in your browser. You can save notes to local storage, export them to a text file, and import notes from your own files for convenient editing – all without leaving your browser.
 
